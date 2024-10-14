@@ -17,7 +17,7 @@ app.use(express.json());
 app.use(express.urlencoded({extended:true}));
 app.use(cookieParser());
 const corsOptions = {
-    origin:'https://fabulous-unicorn-3e61b5.netlify.app',
+    origin:'https://steady-rolypoly-135094.netlify.app',
     credentials:true
 }
 
